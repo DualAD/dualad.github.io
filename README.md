@@ -1,2 +1,2 @@
-# dualad.github.io
-Dual-Layer Planning for Reasoning in Autonomous Driving
+# DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving
+This repository contains source code for the DualAD website.
